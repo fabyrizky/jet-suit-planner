@@ -11,7 +11,7 @@ st.set_page_config(
 st.title("🛫 Jet-Suit Transport Agent: Fly Over Jakarta’s Macet!")
 st.markdown(
     """
-    **Powered by Gravity Industries Jet Suit + Qwen AI**  
+    **Powered by Gravity Industries Jet Suit + Open AI**  
     Escape traffic with turbine-powered flight 🏙️➡️🌤️
     """
 )
